@@ -12,7 +12,7 @@ int main(void)
 
 	for (lowercase = 'z'; lowercase >= 'a'; lowercase--)
 		putchar(lowercase);
-	putchar("\n");
+	putchar('\n');
 
 
 
