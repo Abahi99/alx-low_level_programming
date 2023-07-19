@@ -2,7 +2,8 @@
 
 /**
  * add - check the code
- *
+ * @x: first num
+ * @y: second num
  * Return: Always 0.
  */
 
