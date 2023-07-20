@@ -2,7 +2,7 @@
 
 /**
  * print_diagonal - check the code
- *
+ * @n: checked
  * Return: Void
  */
 
