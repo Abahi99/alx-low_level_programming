@@ -1,9 +1,9 @@
-#include <stdio.h>
+#include "main.h"
 
 /**
- * main - check the code
- *
- * Return: Always 0.
+ * _puts - print the string
+ * @str: parameter
+ * Return: Void
  */
 
 void _puts(char *str)
