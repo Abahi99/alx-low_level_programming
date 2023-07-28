@@ -3,7 +3,7 @@
 /**
  * *string_toupper - check the code
  * @n: checked
- * Return: Always 0.
+ * Return: Always n.
  */
 
 char *string_toupper(char *n)
@@ -17,5 +17,5 @@ char *string_toupper(char *n)
 			n[i] = n[i] - 32;
 		i++;
 	}
-	return (0);
+	return (n);
 }
