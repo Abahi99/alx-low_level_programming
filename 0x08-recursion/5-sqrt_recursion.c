@@ -3,6 +3,7 @@
 /**
  * _sqrt_recursion - check the code
  * @n:xhexked
+ * @i:checked
  * Return: Always 0.
  */
 int square(int n, int i);

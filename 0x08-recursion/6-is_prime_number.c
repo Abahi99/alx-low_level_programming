@@ -3,6 +3,7 @@
 /**
  * is_prime_number - check the code
  * @n: checked
+ * @i:checked
  * Return: Always 0.
  */
 int prime(int n, int i);
