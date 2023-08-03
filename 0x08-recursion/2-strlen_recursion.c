@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * main - check the code
- *
+ * _strlen_recursion - check the code
+ * @s:checke
  * Return: Always 0.
  */
 
@@ -16,6 +16,5 @@ int _strlen_recursion(char *s)
 		i++;
 		_strlen_recursion(s + 1);
 	}
-	else
-		return (i);
+	return (i);
 }
